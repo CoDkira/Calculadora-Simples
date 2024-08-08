@@ -1,2 +1,2 @@
-# Calculadora_IMC
-Calculadora de IMC 
+# Calculadora Simples
+Projeto de uma simples calculadora
